@@ -1,16 +1,19 @@
-# elementary_todo
+# Elementary Todo
 
-A new Flutter project.
+A simple POC todo list to showcase Flutter BLoC + Flutter Elementary combination
 
-## Getting Started
+## Development
 
-This project is a starting point for a Flutter application.
+```bash
+# Initialize FVM
+fvm install
 
-A few resources to get you started if this is your first Flutter project:
+# Get packages
+fvm flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Run build_runner
+fvm flutter pub run build_runner build --delete-conflicting-outputs
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Run app
+fvm flutter run
+```
