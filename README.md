@@ -2,6 +2,10 @@
 
 A simple POC todo list to showcase Flutter BLoC + Flutter Elementary combination
 
+## Screenshots
+
+<img src="https://github.com/gasaichandesu/elementary_todo/blob/main/screenshots/home.png" width="300" /> <img src="https://github.com/gasaichandesu/elementary_todo/blob/main/screenshots/task_details.png" width="300" />
+
 ## Development
 
 ```bash
