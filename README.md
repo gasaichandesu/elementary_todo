@@ -20,6 +20,5 @@ fvm flutter run
 
 ## Not implemented
 
-[] Localization
-
-[] Error handling
+- Localization
+- Error handling
