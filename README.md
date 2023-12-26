@@ -17,3 +17,8 @@ fvm flutter pub run build_runner build --delete-conflicting-outputs
 # Run app
 fvm flutter run
 ```
+
+## Not implemented (yet?)
+
+[ ] Localization
+[ ] Error handling

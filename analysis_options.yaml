@@ -29,6 +29,7 @@ analyzer:
   exclude:
     [
       "**/*.g.dart",
+      "**/*.gr.dart",
       "**/*.config.dart",
       "**/*.freezed.dart",
       "**/app_localizations.dart",

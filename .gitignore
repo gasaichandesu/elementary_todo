@@ -44,3 +44,8 @@ app.*.map.json
 
 # Fvm
 .fvm/flutter_sdk
+
+# Generated files
+*.g.dart
+*.gr.dart
+*.config.dart
